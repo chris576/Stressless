@@ -1,0 +1,2 @@
+com/example/stressless/BuildConfig.java
+ com.example.stressless.BuildConfig

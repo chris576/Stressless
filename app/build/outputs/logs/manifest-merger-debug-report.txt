@@ -1,0 +1,633 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /home/morty/.gradle/caches/transforms-3/8b2e4ea6de2cd9a0d9126667dd096056/transformed/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/morty/.gradle/caches/transforms-3/ad4153ef094471b2b04b436d1d8cdb9e/transformed/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /home/morty/.gradle/caches/transforms-3/0e6fa49a3dff11ab77be7b24699bc605/transformed/navigation-ui-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /home/morty/.gradle/caches/transforms-3/120cd550dce509f3609ae0d6f2fa160c/transformed/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /home/morty/.gradle/caches/transforms-3/37c11b494a36a452a4b544d36d3b3b96/transformed/navigation-common-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/morty/.gradle/caches/transforms-3/092fd0805eed1e908746c94e0bc7bc80/transformed/jetified-activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0] /home/morty/.gradle/caches/transforms-3/059797c3ac7af5828d8b678e24a1e17f/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /home/morty/.gradle/caches/transforms-3/d1373e4f5aa2dc4a55d5269258984820/transformed/navigation-ui-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0] /home/morty/.gradle/caches/transforms-3/e771736e262edae72c6986bd6ff3ed95/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /home/morty/.gradle/caches/transforms-3/43a68fc72b5a69342be3527c8ab2a7a3/transformed/constraintlayout-2.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/morty/.gradle/caches/transforms-3/a76a10f297be196c2bd771fa5fa85600/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /home/morty/.gradle/caches/transforms-3/c56c83c298f704f49f85aeba5840d543/transformed/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/morty/.gradle/caches/transforms-3/1f1229cc5e39a7a2d83c0ec34dd2e62e/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-ktx:18.0.3] /home/morty/.gradle/caches/transforms-3/26e176f79e7a2cf1860e597ab88a672d/transformed/jetified-firebase-analytics-ktx-18.0.3/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-auth-ktx:20.0.4] /home/morty/.gradle/caches/transforms-3/245e1b9c69799110c47cb78467cb3a4c/transformed/jetified-firebase-auth-ktx-20.0.4/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-database-ktx:19.7.0] /home/morty/.gradle/caches/transforms-3/b6d1de25b6cbca01e8df2a92a062c3c1/transformed/jetified-firebase-database-ktx-19.7.0/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-analytics:18.0.3] /home/morty/.gradle/caches/transforms-3/13ca196008cdc8f4498eed0ec5e0027f/transformed/jetified-firebase-analytics-18.0.3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:17:1-83:12
+MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] /home/morty/.gradle/caches/transforms-3/d282df085e1293a79af305f529f6b4e0/transformed/jetified-firebase-common-ktx-19.5.0/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-database:19.7.0] /home/morty/.gradle/caches/transforms-3/854614eb0fefe8d12a4f7ac59149046d/transformed/jetified-firebase-database-19.7.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] /home/morty/.gradle/caches/transforms-3/c85872ced9d7f7a460424e5b1ba27990/transformed/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /home/morty/.gradle/caches/transforms-3/01d7d09c46cf8cb4fa6e2df09940a3bb/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /home/morty/.gradle/caches/transforms-3/dc0340444484dd6680f5317d76152ecf/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:19.5.0] /home/morty/.gradle/caches/transforms-3/b2b83ec633b3c0c6e29345d97ed2d8a6/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:15:1-49:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /home/morty/.gradle/caches/transforms-3/706a3898c6c27e8e423a3e072ffc6757/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/morty/.gradle/caches/transforms-3/288bdfc07aeb579bf0214dbbb8925386/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/morty/.gradle/caches/transforms-3/1c92499a00e470c1c6af1cb05a96352b/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /home/morty/.gradle/caches/transforms-3/609b6819a59b41eb6d085f8ac7c19087/transformed/navigation-fragment-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /home/morty/.gradle/caches/transforms-3/928735e7581b953286a1513101e9a96f/transformed/jetified-firebase-database-collection-17.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/morty/.gradle/caches/transforms-3/304268184b473886329c9bb17d97987a/transformed/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/morty/.gradle/caches/transforms-3/b917e71d9560db29435e8b718173aee9/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/morty/.gradle/caches/transforms-3/d96548584432f351d303c10226e499eb/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /home/morty/.gradle/caches/transforms-3/a23cf147daecefb505b2a79bc4106aad/transformed/jetified-firebase-installations-interop-16.0.1/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/morty/.gradle/caches/transforms-3/2f4fd41ad39f2c0299d603c5721d27d9/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:18.0.3] /home/morty/.gradle/caches/transforms-3/f3ce0923ce37f7a305634f5404af3ca3/transformed/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.3] /home/morty/.gradle/caches/transforms-3/b7a53a87f29d1d12a87616ad0d546dab/transformed/jetified-play-services-measurement-sdk-18.0.3/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] /home/morty/.gradle/caches/transforms-3/60defa369e3ea22a27c0481639ff1ca4/transformed/jetified-play-services-measurement-impl-18.0.3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/morty/.gradle/caches/transforms-3/5597d0aac9814838cb392618243f1a80/transformed/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] /home/morty/.gradle/caches/transforms-3/cc5eb3610f4a9ebeac1252a2f370500d/transformed/jetified-play-services-measurement-sdk-api-18.0.3/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.3] /home/morty/.gradle/caches/transforms-3/bb6931fab442ad1891e39f06a2a16049/transformed/jetified-play-services-measurement-base-18.0.3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/morty/.gradle/caches/transforms-3/61b73fba5c5a78ff2470107d7930eae4/transformed/jetified-play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/morty/.gradle/caches/transforms-3/24040df11d9ccf037743b0c048f75fee/transformed/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /home/morty/.gradle/caches/transforms-3/4c78b08c025622d8c838583ffbabfe21/transformed/jetified-play-services-basement-17.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/morty/.gradle/caches/transforms-3/49733b3397280f4a8192bb84fee83605/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /home/morty/.gradle/caches/transforms-3/17a13df888782c2d2e76bed9825caebc/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /home/morty/.gradle/caches/transforms-3/8733f9a9d99f75a51cd51b6db868e31f/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/morty/.gradle/caches/transforms-3/8972f8acf8a9a329cb8c499465ce3135/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] /home/morty/.gradle/caches/transforms-3/b830f467c86e6f2a7e553080c266d84a/transformed/browser-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/morty/.gradle/caches/transforms-3/cf6047815332b19634e9fb945e46d97d/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/morty/.gradle/caches/transforms-3/d204998480488df546b8993d9451b716/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/morty/.gradle/caches/transforms-3/f7520a1974a7fbc4c19db01e4b8949cd/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/morty/.gradle/caches/transforms-3/e0f3ce8a6a3bf3505ad5798c3326f99d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/morty/.gradle/caches/transforms-3/124c019b49e1e798ae6f03c4504d4b35/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/morty/.gradle/caches/transforms-3/fd0e4cd1405114604353c2d9ccc464e5/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/morty/.gradle/caches/transforms-3/477ac63e766e458a69d511981d5fa578/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/morty/.gradle/caches/transforms-3/ce19cfa76a71f995d966f720a6909e05/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/morty/.gradle/caches/transforms-3/b9ec8fde4f93fc7e17db9f9350a37fca/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/morty/.gradle/caches/transforms-3/e8752ad1523410675eaef15055614e7a/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/morty/.gradle/caches/transforms-3/9b56ffd9b626375b81c8236d92d27726/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /home/morty/.gradle/caches/transforms-3/9eb6b2e5182a055c521f51262bfb2f17/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /home/morty/.gradle/caches/transforms-3/8ab25562bb308394b8dd0e597be83252/transformed/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.5] /home/morty/.gradle/caches/transforms-3/8276fc82b001d2223bc865172759c932/transformed/navigation-common-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/morty/.gradle/caches/transforms-3/bd17419a49168b159734127251a448b7/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/morty/.gradle/caches/transforms-3/2d3c2b70cda14f7c719c42a8b4b98827/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /home/morty/.gradle/caches/transforms-3/81b2548fe7fc448b2cd27ba607e12349/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/morty/.gradle/caches/transforms-3/249ec650b3baacbd45434908259509a4/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/morty/.gradle/caches/transforms-3/3180a341933c702afb45ac3fae7be346/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/morty/.gradle/caches/transforms-3/bfe3b44d2fcd88f6afab4cdd905ab99c/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/morty/.gradle/caches/transforms-3/10132760774edd85bc3dd353fe7101a1/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/morty/.gradle/caches/transforms-3/fe47789cc8d4ae07d71e21fa82bf9f5d/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/morty/.gradle/caches/transforms-3/1348b542f0ad028f682233fac30f2b98/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] /home/morty/.gradle/caches/transforms-3/652756c5dcbebfcb72afa7ac67febf39/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/morty/.gradle/caches/transforms-3/c6aa7eb35f7cc759a8d088ba6a2decba/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/morty/.gradle/caches/transforms-3/583a331978306a964c9bf0f7457f0607/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /home/morty/.gradle/caches/transforms-3/609f039a0a473303305cb32d14764995/transformed/lifecycle-livedata-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/morty/.gradle/caches/transforms-3/a0f82f110f3da06bc616e2790f45a3f3/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/morty/.gradle/caches/transforms-3/b794b6a1ab180cca0ebf6419357fcd58/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/morty/.gradle/caches/transforms-3/4ee5a802dd34a6b7c7fac9e650dffcca/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/morty/.gradle/caches/transforms-3/f45dcaeeea8d53a21d9bd974951f5476/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/morty/.gradle/caches/transforms-3/d532ec3ee5176023d8bf152caf1ee643/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/morty/.gradle/caches/transforms-3/1a0cd39739e143ae3b237eaaa51cba95/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/morty/.gradle/caches/transforms-3/010a68e80c485fca7e3af415494c07bc/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml
+		INJECTED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml
+		ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml
+		ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:5:5-27:19
+MERGED from [com.google.android.material:material:1.4.0] /home/morty/.gradle/caches/transforms-3/e771736e262edae72c6986bd6ff3ed95/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /home/morty/.gradle/caches/transforms-3/e771736e262edae72c6986bd6ff3ed95/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /home/morty/.gradle/caches/transforms-3/43a68fc72b5a69342be3527c8ab2a7a3/transformed/constraintlayout-2.1.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /home/morty/.gradle/caches/transforms-3/43a68fc72b5a69342be3527c8ab2a7a3/transformed/constraintlayout-2.1.0/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-analytics-ktx:18.0.3] /home/morty/.gradle/caches/transforms-3/26e176f79e7a2cf1860e597ab88a672d/transformed/jetified-firebase-analytics-ktx-18.0.3/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:18.0.3] /home/morty/.gradle/caches/transforms-3/26e176f79e7a2cf1860e597ab88a672d/transformed/jetified-firebase-analytics-ktx-18.0.3/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:20.0.4] /home/morty/.gradle/caches/transforms-3/245e1b9c69799110c47cb78467cb3a4c/transformed/jetified-firebase-auth-ktx-20.0.4/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:20.0.4] /home/morty/.gradle/caches/transforms-3/245e1b9c69799110c47cb78467cb3a4c/transformed/jetified-firebase-auth-ktx-20.0.4/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-database-ktx:19.7.0] /home/morty/.gradle/caches/transforms-3/b6d1de25b6cbca01e8df2a92a062c3c1/transformed/jetified-firebase-database-ktx-19.7.0/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-database-ktx:19.7.0] /home/morty/.gradle/caches/transforms-3/b6d1de25b6cbca01e8df2a92a062c3c1/transformed/jetified-firebase-database-ktx-19.7.0/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-analytics:18.0.3] /home/morty/.gradle/caches/transforms-3/13ca196008cdc8f4498eed0ec5e0027f/transformed/jetified-firebase-analytics-18.0.3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:18.0.3] /home/morty/.gradle/caches/transforms-3/13ca196008cdc8f4498eed0ec5e0027f/transformed/jetified-firebase-analytics-18.0.3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] /home/morty/.gradle/caches/transforms-3/d282df085e1293a79af305f529f6b4e0/transformed/jetified-firebase-common-ktx-19.5.0/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] /home/morty/.gradle/caches/transforms-3/d282df085e1293a79af305f529f6b4e0/transformed/jetified-firebase-common-ktx-19.5.0/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-database:19.7.0] /home/morty/.gradle/caches/transforms-3/854614eb0fefe8d12a4f7ac59149046d/transformed/jetified-firebase-database-19.7.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.7.0] /home/morty/.gradle/caches/transforms-3/854614eb0fefe8d12a4f7ac59149046d/transformed/jetified-firebase-database-19.7.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] /home/morty/.gradle/caches/transforms-3/c85872ced9d7f7a460424e5b1ba27990/transformed/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] /home/morty/.gradle/caches/transforms-3/c85872ced9d7f7a460424e5b1ba27990/transformed/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /home/morty/.gradle/caches/transforms-3/01d7d09c46cf8cb4fa6e2df09940a3bb/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /home/morty/.gradle/caches/transforms-3/01d7d09c46cf8cb4fa6e2df09940a3bb/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /home/morty/.gradle/caches/transforms-3/dc0340444484dd6680f5317d76152ecf/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /home/morty/.gradle/caches/transforms-3/dc0340444484dd6680f5317d76152ecf/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /home/morty/.gradle/caches/transforms-3/b2b83ec633b3c0c6e29345d97ed2d8a6/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /home/morty/.gradle/caches/transforms-3/b2b83ec633b3c0c6e29345d97ed2d8a6/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/morty/.gradle/caches/transforms-3/b917e71d9560db29435e8b718173aee9/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/morty/.gradle/caches/transforms-3/b917e71d9560db29435e8b718173aee9/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/morty/.gradle/caches/transforms-3/d96548584432f351d303c10226e499eb/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/morty/.gradle/caches/transforms-3/d96548584432f351d303c10226e499eb/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/morty/.gradle/caches/transforms-3/2f4fd41ad39f2c0299d603c5721d27d9/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/morty/.gradle/caches/transforms-3/2f4fd41ad39f2c0299d603c5721d27d9/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:18.0.3] /home/morty/.gradle/caches/transforms-3/f3ce0923ce37f7a305634f5404af3ca3/transformed/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:18.0.3] /home/morty/.gradle/caches/transforms-3/f3ce0923ce37f7a305634f5404af3ca3/transformed/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.3] /home/morty/.gradle/caches/transforms-3/b7a53a87f29d1d12a87616ad0d546dab/transformed/jetified-play-services-measurement-sdk-18.0.3/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.3] /home/morty/.gradle/caches/transforms-3/b7a53a87f29d1d12a87616ad0d546dab/transformed/jetified-play-services-measurement-sdk-18.0.3/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] /home/morty/.gradle/caches/transforms-3/60defa369e3ea22a27c0481639ff1ca4/transformed/jetified-play-services-measurement-impl-18.0.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] /home/morty/.gradle/caches/transforms-3/60defa369e3ea22a27c0481639ff1ca4/transformed/jetified-play-services-measurement-impl-18.0.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/morty/.gradle/caches/transforms-3/5597d0aac9814838cb392618243f1a80/transformed/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/morty/.gradle/caches/transforms-3/5597d0aac9814838cb392618243f1a80/transformed/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.3] /home/morty/.gradle/caches/transforms-3/bb6931fab442ad1891e39f06a2a16049/transformed/jetified-play-services-measurement-base-18.0.3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.3] /home/morty/.gradle/caches/transforms-3/bb6931fab442ad1891e39f06a2a16049/transformed/jetified-play-services-measurement-base-18.0.3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/morty/.gradle/caches/transforms-3/61b73fba5c5a78ff2470107d7930eae4/transformed/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/morty/.gradle/caches/transforms-3/61b73fba5c5a78ff2470107d7930eae4/transformed/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/morty/.gradle/caches/transforms-3/24040df11d9ccf037743b0c048f75fee/transformed/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/morty/.gradle/caches/transforms-3/24040df11d9ccf037743b0c048f75fee/transformed/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /home/morty/.gradle/caches/transforms-3/4c78b08c025622d8c838583ffbabfe21/transformed/jetified-play-services-basement-17.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /home/morty/.gradle/caches/transforms-3/4c78b08c025622d8c838583ffbabfe21/transformed/jetified-play-services-basement-17.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.6.0] /home/morty/.gradle/caches/transforms-3/81b2548fe7fc448b2cd27ba607e12349/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /home/morty/.gradle/caches/transforms-3/81b2548fe7fc448b2cd27ba607e12349/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/morty/.gradle/caches/transforms-3/c6aa7eb35f7cc759a8d088ba6a2decba/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/morty/.gradle/caches/transforms-3/c6aa7eb35f7cc759a8d088ba6a2decba/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /home/morty/.gradle/caches/transforms-3/81b2548fe7fc448b2cd27ba607e12349/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:11:9-48
+activity#com.example.stressless.ui.login.EnterMail
+ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:15:13-45
+	android:exported
+		ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:13:13-37
+	android:theme
+		ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:16:13-64
+	android:name
+		ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:14:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.stressless.ui.login.EnterPassword
+ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:22:9-59
+	android:name
+		ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:22:19-57
+activity#com.example.stressless.ui.login.Register_User
+ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:23:9-59
+	android:name
+		ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:23:19-57
+activity#com.example.stressless.MainActivity
+ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:24:9-49
+	android:name
+		ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:24:19-47
+activity#com.example.stressless.ui.login.Register_Community
+ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:25:9-64
+	android:name
+		ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:25:19-62
+activity#com.example.stressless.ui.login.Register_Or_Apply_To_Community
+ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:26:9-76
+	android:name
+		ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml:26:19-74
+uses-sdk
+INJECTED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml
+INJECTED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /home/morty/.gradle/caches/transforms-3/8b2e4ea6de2cd9a0d9126667dd096056/transformed/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /home/morty/.gradle/caches/transforms-3/8b2e4ea6de2cd9a0d9126667dd096056/transformed/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/morty/.gradle/caches/transforms-3/ad4153ef094471b2b04b436d1d8cdb9e/transformed/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/morty/.gradle/caches/transforms-3/ad4153ef094471b2b04b436d1d8cdb9e/transformed/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /home/morty/.gradle/caches/transforms-3/0e6fa49a3dff11ab77be7b24699bc605/transformed/navigation-ui-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /home/morty/.gradle/caches/transforms-3/0e6fa49a3dff11ab77be7b24699bc605/transformed/navigation-ui-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /home/morty/.gradle/caches/transforms-3/120cd550dce509f3609ae0d6f2fa160c/transformed/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /home/morty/.gradle/caches/transforms-3/120cd550dce509f3609ae0d6f2fa160c/transformed/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /home/morty/.gradle/caches/transforms-3/37c11b494a36a452a4b544d36d3b3b96/transformed/navigation-common-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /home/morty/.gradle/caches/transforms-3/37c11b494a36a452a4b544d36d3b3b96/transformed/navigation-common-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/morty/.gradle/caches/transforms-3/092fd0805eed1e908746c94e0bc7bc80/transformed/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/morty/.gradle/caches/transforms-3/092fd0805eed1e908746c94e0bc7bc80/transformed/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] /home/morty/.gradle/caches/transforms-3/059797c3ac7af5828d8b678e24a1e17f/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /home/morty/.gradle/caches/transforms-3/059797c3ac7af5828d8b678e24a1e17f/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /home/morty/.gradle/caches/transforms-3/d1373e4f5aa2dc4a55d5269258984820/transformed/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /home/morty/.gradle/caches/transforms-3/d1373e4f5aa2dc4a55d5269258984820/transformed/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0] /home/morty/.gradle/caches/transforms-3/e771736e262edae72c6986bd6ff3ed95/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /home/morty/.gradle/caches/transforms-3/e771736e262edae72c6986bd6ff3ed95/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /home/morty/.gradle/caches/transforms-3/43a68fc72b5a69342be3527c8ab2a7a3/transformed/constraintlayout-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /home/morty/.gradle/caches/transforms-3/43a68fc72b5a69342be3527c8ab2a7a3/transformed/constraintlayout-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/morty/.gradle/caches/transforms-3/a76a10f297be196c2bd771fa5fa85600/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/morty/.gradle/caches/transforms-3/a76a10f297be196c2bd771fa5fa85600/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /home/morty/.gradle/caches/transforms-3/c56c83c298f704f49f85aeba5840d543/transformed/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /home/morty/.gradle/caches/transforms-3/c56c83c298f704f49f85aeba5840d543/transformed/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/morty/.gradle/caches/transforms-3/1f1229cc5e39a7a2d83c0ec34dd2e62e/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/morty/.gradle/caches/transforms-3/1f1229cc5e39a7a2d83c0ec34dd2e62e/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-analytics-ktx:18.0.3] /home/morty/.gradle/caches/transforms-3/26e176f79e7a2cf1860e597ab88a672d/transformed/jetified-firebase-analytics-ktx-18.0.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-ktx:18.0.3] /home/morty/.gradle/caches/transforms-3/26e176f79e7a2cf1860e597ab88a672d/transformed/jetified-firebase-analytics-ktx-18.0.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:20.0.4] /home/morty/.gradle/caches/transforms-3/245e1b9c69799110c47cb78467cb3a4c/transformed/jetified-firebase-auth-ktx-20.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:20.0.4] /home/morty/.gradle/caches/transforms-3/245e1b9c69799110c47cb78467cb3a4c/transformed/jetified-firebase-auth-ktx-20.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-ktx:19.7.0] /home/morty/.gradle/caches/transforms-3/b6d1de25b6cbca01e8df2a92a062c3c1/transformed/jetified-firebase-database-ktx-19.7.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-database-ktx:19.7.0] /home/morty/.gradle/caches/transforms-3/b6d1de25b6cbca01e8df2a92a062c3c1/transformed/jetified-firebase-database-ktx-19.7.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-analytics:18.0.3] /home/morty/.gradle/caches/transforms-3/13ca196008cdc8f4498eed0ec5e0027f/transformed/jetified-firebase-analytics-18.0.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:18.0.3] /home/morty/.gradle/caches/transforms-3/13ca196008cdc8f4498eed0ec5e0027f/transformed/jetified-firebase-analytics-18.0.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] /home/morty/.gradle/caches/transforms-3/d282df085e1293a79af305f529f6b4e0/transformed/jetified-firebase-common-ktx-19.5.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] /home/morty/.gradle/caches/transforms-3/d282df085e1293a79af305f529f6b4e0/transformed/jetified-firebase-common-ktx-19.5.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-database:19.7.0] /home/morty/.gradle/caches/transforms-3/854614eb0fefe8d12a4f7ac59149046d/transformed/jetified-firebase-database-19.7.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.7.0] /home/morty/.gradle/caches/transforms-3/854614eb0fefe8d12a4f7ac59149046d/transformed/jetified-firebase-database-19.7.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] /home/morty/.gradle/caches/transforms-3/c85872ced9d7f7a460424e5b1ba27990/transformed/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] /home/morty/.gradle/caches/transforms-3/c85872ced9d7f7a460424e5b1ba27990/transformed/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /home/morty/.gradle/caches/transforms-3/01d7d09c46cf8cb4fa6e2df09940a3bb/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /home/morty/.gradle/caches/transforms-3/01d7d09c46cf8cb4fa6e2df09940a3bb/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /home/morty/.gradle/caches/transforms-3/dc0340444484dd6680f5317d76152ecf/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /home/morty/.gradle/caches/transforms-3/dc0340444484dd6680f5317d76152ecf/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] /home/morty/.gradle/caches/transforms-3/b2b83ec633b3c0c6e29345d97ed2d8a6/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] /home/morty/.gradle/caches/transforms-3/b2b83ec633b3c0c6e29345d97ed2d8a6/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /home/morty/.gradle/caches/transforms-3/706a3898c6c27e8e423a3e072ffc6757/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /home/morty/.gradle/caches/transforms-3/706a3898c6c27e8e423a3e072ffc6757/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/morty/.gradle/caches/transforms-3/288bdfc07aeb579bf0214dbbb8925386/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/morty/.gradle/caches/transforms-3/288bdfc07aeb579bf0214dbbb8925386/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/morty/.gradle/caches/transforms-3/1c92499a00e470c1c6af1cb05a96352b/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/morty/.gradle/caches/transforms-3/1c92499a00e470c1c6af1cb05a96352b/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /home/morty/.gradle/caches/transforms-3/609b6819a59b41eb6d085f8ac7c19087/transformed/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /home/morty/.gradle/caches/transforms-3/609b6819a59b41eb6d085f8ac7c19087/transformed/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /home/morty/.gradle/caches/transforms-3/928735e7581b953286a1513101e9a96f/transformed/jetified-firebase-database-collection-17.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /home/morty/.gradle/caches/transforms-3/928735e7581b953286a1513101e9a96f/transformed/jetified-firebase-database-collection-17.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/morty/.gradle/caches/transforms-3/304268184b473886329c9bb17d97987a/transformed/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/morty/.gradle/caches/transforms-3/304268184b473886329c9bb17d97987a/transformed/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/morty/.gradle/caches/transforms-3/b917e71d9560db29435e8b718173aee9/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/morty/.gradle/caches/transforms-3/b917e71d9560db29435e8b718173aee9/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/morty/.gradle/caches/transforms-3/d96548584432f351d303c10226e499eb/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/morty/.gradle/caches/transforms-3/d96548584432f351d303c10226e499eb/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /home/morty/.gradle/caches/transforms-3/a23cf147daecefb505b2a79bc4106aad/transformed/jetified-firebase-installations-interop-16.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /home/morty/.gradle/caches/transforms-3/a23cf147daecefb505b2a79bc4106aad/transformed/jetified-firebase-installations-interop-16.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/morty/.gradle/caches/transforms-3/2f4fd41ad39f2c0299d603c5721d27d9/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/morty/.gradle/caches/transforms-3/2f4fd41ad39f2c0299d603c5721d27d9/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:18.0.3] /home/morty/.gradle/caches/transforms-3/f3ce0923ce37f7a305634f5404af3ca3/transformed/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:18.0.3] /home/morty/.gradle/caches/transforms-3/f3ce0923ce37f7a305634f5404af3ca3/transformed/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.3] /home/morty/.gradle/caches/transforms-3/b7a53a87f29d1d12a87616ad0d546dab/transformed/jetified-play-services-measurement-sdk-18.0.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.3] /home/morty/.gradle/caches/transforms-3/b7a53a87f29d1d12a87616ad0d546dab/transformed/jetified-play-services-measurement-sdk-18.0.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] /home/morty/.gradle/caches/transforms-3/60defa369e3ea22a27c0481639ff1ca4/transformed/jetified-play-services-measurement-impl-18.0.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] /home/morty/.gradle/caches/transforms-3/60defa369e3ea22a27c0481639ff1ca4/transformed/jetified-play-services-measurement-impl-18.0.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/morty/.gradle/caches/transforms-3/5597d0aac9814838cb392618243f1a80/transformed/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/morty/.gradle/caches/transforms-3/5597d0aac9814838cb392618243f1a80/transformed/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] /home/morty/.gradle/caches/transforms-3/cc5eb3610f4a9ebeac1252a2f370500d/transformed/jetified-play-services-measurement-sdk-api-18.0.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] /home/morty/.gradle/caches/transforms-3/cc5eb3610f4a9ebeac1252a2f370500d/transformed/jetified-play-services-measurement-sdk-api-18.0.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.3] /home/morty/.gradle/caches/transforms-3/bb6931fab442ad1891e39f06a2a16049/transformed/jetified-play-services-measurement-base-18.0.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.3] /home/morty/.gradle/caches/transforms-3/bb6931fab442ad1891e39f06a2a16049/transformed/jetified-play-services-measurement-base-18.0.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/morty/.gradle/caches/transforms-3/61b73fba5c5a78ff2470107d7930eae4/transformed/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/morty/.gradle/caches/transforms-3/61b73fba5c5a78ff2470107d7930eae4/transformed/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/morty/.gradle/caches/transforms-3/24040df11d9ccf037743b0c048f75fee/transformed/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/morty/.gradle/caches/transforms-3/24040df11d9ccf037743b0c048f75fee/transformed/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /home/morty/.gradle/caches/transforms-3/4c78b08c025622d8c838583ffbabfe21/transformed/jetified-play-services-basement-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /home/morty/.gradle/caches/transforms-3/4c78b08c025622d8c838583ffbabfe21/transformed/jetified-play-services-basement-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] /home/morty/.gradle/caches/transforms-3/49733b3397280f4a8192bb84fee83605/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/morty/.gradle/caches/transforms-3/49733b3397280f4a8192bb84fee83605/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /home/morty/.gradle/caches/transforms-3/17a13df888782c2d2e76bed9825caebc/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /home/morty/.gradle/caches/transforms-3/17a13df888782c2d2e76bed9825caebc/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/morty/.gradle/caches/transforms-3/8733f9a9d99f75a51cd51b6db868e31f/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/morty/.gradle/caches/transforms-3/8733f9a9d99f75a51cd51b6db868e31f/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/morty/.gradle/caches/transforms-3/8972f8acf8a9a329cb8c499465ce3135/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/morty/.gradle/caches/transforms-3/8972f8acf8a9a329cb8c499465ce3135/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] /home/morty/.gradle/caches/transforms-3/b830f467c86e6f2a7e553080c266d84a/transformed/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /home/morty/.gradle/caches/transforms-3/b830f467c86e6f2a7e553080c266d84a/transformed/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/morty/.gradle/caches/transforms-3/cf6047815332b19634e9fb945e46d97d/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/morty/.gradle/caches/transforms-3/cf6047815332b19634e9fb945e46d97d/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/morty/.gradle/caches/transforms-3/d204998480488df546b8993d9451b716/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/morty/.gradle/caches/transforms-3/d204998480488df546b8993d9451b716/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/morty/.gradle/caches/transforms-3/f7520a1974a7fbc4c19db01e4b8949cd/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/morty/.gradle/caches/transforms-3/f7520a1974a7fbc4c19db01e4b8949cd/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/morty/.gradle/caches/transforms-3/e0f3ce8a6a3bf3505ad5798c3326f99d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/morty/.gradle/caches/transforms-3/e0f3ce8a6a3bf3505ad5798c3326f99d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/morty/.gradle/caches/transforms-3/124c019b49e1e798ae6f03c4504d4b35/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/morty/.gradle/caches/transforms-3/124c019b49e1e798ae6f03c4504d4b35/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/morty/.gradle/caches/transforms-3/fd0e4cd1405114604353c2d9ccc464e5/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/morty/.gradle/caches/transforms-3/fd0e4cd1405114604353c2d9ccc464e5/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/morty/.gradle/caches/transforms-3/477ac63e766e458a69d511981d5fa578/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/morty/.gradle/caches/transforms-3/477ac63e766e458a69d511981d5fa578/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/morty/.gradle/caches/transforms-3/ce19cfa76a71f995d966f720a6909e05/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/morty/.gradle/caches/transforms-3/ce19cfa76a71f995d966f720a6909e05/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/morty/.gradle/caches/transforms-3/b9ec8fde4f93fc7e17db9f9350a37fca/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/morty/.gradle/caches/transforms-3/b9ec8fde4f93fc7e17db9f9350a37fca/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/morty/.gradle/caches/transforms-3/e8752ad1523410675eaef15055614e7a/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/morty/.gradle/caches/transforms-3/e8752ad1523410675eaef15055614e7a/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/morty/.gradle/caches/transforms-3/9b56ffd9b626375b81c8236d92d27726/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/morty/.gradle/caches/transforms-3/9b56ffd9b626375b81c8236d92d27726/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /home/morty/.gradle/caches/transforms-3/9eb6b2e5182a055c521f51262bfb2f17/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/morty/.gradle/caches/transforms-3/9eb6b2e5182a055c521f51262bfb2f17/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /home/morty/.gradle/caches/transforms-3/8ab25562bb308394b8dd0e597be83252/transformed/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /home/morty/.gradle/caches/transforms-3/8ab25562bb308394b8dd0e597be83252/transformed/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /home/morty/.gradle/caches/transforms-3/8276fc82b001d2223bc865172759c932/transformed/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /home/morty/.gradle/caches/transforms-3/8276fc82b001d2223bc865172759c932/transformed/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/morty/.gradle/caches/transforms-3/bd17419a49168b159734127251a448b7/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/morty/.gradle/caches/transforms-3/bd17419a49168b159734127251a448b7/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/morty/.gradle/caches/transforms-3/2d3c2b70cda14f7c719c42a8b4b98827/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/morty/.gradle/caches/transforms-3/2d3c2b70cda14f7c719c42a8b4b98827/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /home/morty/.gradle/caches/transforms-3/81b2548fe7fc448b2cd27ba607e12349/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /home/morty/.gradle/caches/transforms-3/81b2548fe7fc448b2cd27ba607e12349/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/morty/.gradle/caches/transforms-3/249ec650b3baacbd45434908259509a4/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/morty/.gradle/caches/transforms-3/249ec650b3baacbd45434908259509a4/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/morty/.gradle/caches/transforms-3/3180a341933c702afb45ac3fae7be346/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/morty/.gradle/caches/transforms-3/3180a341933c702afb45ac3fae7be346/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/morty/.gradle/caches/transforms-3/bfe3b44d2fcd88f6afab4cdd905ab99c/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/morty/.gradle/caches/transforms-3/bfe3b44d2fcd88f6afab4cdd905ab99c/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/morty/.gradle/caches/transforms-3/10132760774edd85bc3dd353fe7101a1/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/morty/.gradle/caches/transforms-3/10132760774edd85bc3dd353fe7101a1/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/morty/.gradle/caches/transforms-3/fe47789cc8d4ae07d71e21fa82bf9f5d/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/morty/.gradle/caches/transforms-3/fe47789cc8d4ae07d71e21fa82bf9f5d/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/morty/.gradle/caches/transforms-3/1348b542f0ad028f682233fac30f2b98/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/morty/.gradle/caches/transforms-3/1348b542f0ad028f682233fac30f2b98/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.1.0] /home/morty/.gradle/caches/transforms-3/652756c5dcbebfcb72afa7ac67febf39/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /home/morty/.gradle/caches/transforms-3/652756c5dcbebfcb72afa7ac67febf39/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/morty/.gradle/caches/transforms-3/c6aa7eb35f7cc759a8d088ba6a2decba/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/morty/.gradle/caches/transforms-3/c6aa7eb35f7cc759a8d088ba6a2decba/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/morty/.gradle/caches/transforms-3/583a331978306a964c9bf0f7457f0607/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/morty/.gradle/caches/transforms-3/583a331978306a964c9bf0f7457f0607/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /home/morty/.gradle/caches/transforms-3/609f039a0a473303305cb32d14764995/transformed/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /home/morty/.gradle/caches/transforms-3/609f039a0a473303305cb32d14764995/transformed/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/morty/.gradle/caches/transforms-3/a0f82f110f3da06bc616e2790f45a3f3/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/morty/.gradle/caches/transforms-3/a0f82f110f3da06bc616e2790f45a3f3/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/morty/.gradle/caches/transforms-3/b794b6a1ab180cca0ebf6419357fcd58/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/morty/.gradle/caches/transforms-3/b794b6a1ab180cca0ebf6419357fcd58/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/morty/.gradle/caches/transforms-3/4ee5a802dd34a6b7c7fac9e650dffcca/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/morty/.gradle/caches/transforms-3/4ee5a802dd34a6b7c7fac9e650dffcca/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/morty/.gradle/caches/transforms-3/f45dcaeeea8d53a21d9bd974951f5476/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/morty/.gradle/caches/transforms-3/f45dcaeeea8d53a21d9bd974951f5476/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/morty/.gradle/caches/transforms-3/d532ec3ee5176023d8bf152caf1ee643/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/morty/.gradle/caches/transforms-3/d532ec3ee5176023d8bf152caf1ee643/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/morty/.gradle/caches/transforms-3/1a0cd39739e143ae3b237eaaa51cba95/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/morty/.gradle/caches/transforms-3/1a0cd39739e143ae3b237eaaa51cba95/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/morty/.gradle/caches/transforms-3/010a68e80c485fca7e3af415494c07bc/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/morty/.gradle/caches/transforms-3/010a68e80c485fca7e3af415494c07bc/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml
+INJECTED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml
+		ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml
+		INJECTED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml
+		ADDED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml
+		INJECTED from /home/morty/development/android_studio/stressless/app/src/main/AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-analytics-ktx:18.0.3] /home/morty/.gradle/caches/transforms-3/26e176f79e7a2cf1860e597ab88a672d/transformed/jetified-firebase-analytics-ktx-18.0.3/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth-ktx:20.0.4] /home/morty/.gradle/caches/transforms-3/245e1b9c69799110c47cb78467cb3a4c/transformed/jetified-firebase-auth-ktx-20.0.4/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth-ktx:20.0.4] /home/morty/.gradle/caches/transforms-3/245e1b9c69799110c47cb78467cb3a4c/transformed/jetified-firebase-auth-ktx-20.0.4/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-database-ktx:19.7.0] /home/morty/.gradle/caches/transforms-3/b6d1de25b6cbca01e8df2a92a062c3c1/transformed/jetified-firebase-database-ktx-19.7.0/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-database-ktx:19.7.0] /home/morty/.gradle/caches/transforms-3/b6d1de25b6cbca01e8df2a92a062c3c1/transformed/jetified-firebase-database-ktx-19.7.0/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] /home/morty/.gradle/caches/transforms-3/d282df085e1293a79af305f529f6b4e0/transformed/jetified-firebase-common-ktx-19.5.0/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] /home/morty/.gradle/caches/transforms-3/d282df085e1293a79af305f529f6b4e0/transformed/jetified-firebase-common-ktx-19.5.0/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-database:19.7.0] /home/morty/.gradle/caches/transforms-3/854614eb0fefe8d12a4f7ac59149046d/transformed/jetified-firebase-database-19.7.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:19.7.0] /home/morty/.gradle/caches/transforms-3/854614eb0fefe8d12a4f7ac59149046d/transformed/jetified-firebase-database-19.7.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] /home/morty/.gradle/caches/transforms-3/c85872ced9d7f7a460424e5b1ba27990/transformed/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] /home/morty/.gradle/caches/transforms-3/c85872ced9d7f7a460424e5b1ba27990/transformed/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /home/morty/.gradle/caches/transforms-3/dc0340444484dd6680f5317d76152ecf/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /home/morty/.gradle/caches/transforms-3/dc0340444484dd6680f5317d76152ecf/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /home/morty/.gradle/caches/transforms-3/b2b83ec633b3c0c6e29345d97ed2d8a6/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:33:9-46:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /home/morty/.gradle/caches/transforms-3/b2b83ec633b3c0c6e29345d97ed2d8a6/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:33:9-46:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics-ktx:18.0.3] /home/morty/.gradle/caches/transforms-3/26e176f79e7a2cf1860e597ab88a672d/transformed/jetified-firebase-analytics-ktx-18.0.3/AndroidManifest.xml:10:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /home/morty/.gradle/caches/transforms-3/b2b83ec633b3c0c6e29345d97ed2d8a6/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /home/morty/.gradle/caches/transforms-3/b2b83ec633b3c0c6e29345d97ed2d8a6/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-ktx:18.0.3] /home/morty/.gradle/caches/transforms-3/26e176f79e7a2cf1860e597ab88a672d/transformed/jetified-firebase-analytics-ktx-18.0.3/AndroidManifest.xml:9:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar
+ADDED from [com.google.firebase:firebase-analytics-ktx:18.0.3] /home/morty/.gradle/caches/transforms-3/26e176f79e7a2cf1860e597ab88a672d/transformed/jetified-firebase-analytics-ktx-18.0.3/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-analytics-ktx:18.0.3] /home/morty/.gradle/caches/transforms-3/26e176f79e7a2cf1860e597ab88a672d/transformed/jetified-firebase-analytics-ktx-18.0.3/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-ktx:18.0.3] /home/morty/.gradle/caches/transforms-3/26e176f79e7a2cf1860e597ab88a672d/transformed/jetified-firebase-analytics-ktx-18.0.3/AndroidManifest.xml:12:17-126
+meta-data#com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar
+ADDED from [com.google.firebase:firebase-auth-ktx:20.0.4] /home/morty/.gradle/caches/transforms-3/245e1b9c69799110c47cb78467cb3a4c/transformed/jetified-firebase-auth-ktx-20.0.4/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth-ktx:20.0.4] /home/morty/.gradle/caches/transforms-3/245e1b9c69799110c47cb78467cb3a4c/transformed/jetified-firebase-auth-ktx-20.0.4/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:20.0.4] /home/morty/.gradle/caches/transforms-3/245e1b9c69799110c47cb78467cb3a4c/transformed/jetified-firebase-auth-ktx-20.0.4/AndroidManifest.xml:12:17-116
+meta-data#com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database-ktx:19.7.0] /home/morty/.gradle/caches/transforms-3/b6d1de25b6cbca01e8df2a92a062c3c1/transformed/jetified-firebase-database-ktx-19.7.0/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database-ktx:19.7.0] /home/morty/.gradle/caches/transforms-3/b6d1de25b6cbca01e8df2a92a062c3c1/transformed/jetified-firebase-database-ktx-19.7.0/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database-ktx:19.7.0] /home/morty/.gradle/caches/transforms-3/b6d1de25b6cbca01e8df2a92a062c3c1/transformed/jetified-firebase-database-ktx-19.7.0/AndroidManifest.xml:16:17-124
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:19.7.0] /home/morty/.gradle/caches/transforms-3/854614eb0fefe8d12a4f7ac59149046d/transformed/jetified-firebase-database-19.7.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.7.0] /home/morty/.gradle/caches/transforms-3/854614eb0fefe8d12a4f7ac59149046d/transformed/jetified-firebase-database-19.7.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] /home/morty/.gradle/caches/transforms-3/c85872ced9d7f7a460424e5b1ba27990/transformed/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] /home/morty/.gradle/caches/transforms-3/c85872ced9d7f7a460424e5b1ba27990/transformed/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /home/morty/.gradle/caches/transforms-3/dc0340444484dd6680f5317d76152ecf/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /home/morty/.gradle/caches/transforms-3/dc0340444484dd6680f5317d76152ecf/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:18.0.3] /home/morty/.gradle/caches/transforms-3/f3ce0923ce37f7a305634f5404af3ca3/transformed/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:18.0.3] /home/morty/.gradle/caches/transforms-3/f3ce0923ce37f7a305634f5404af3ca3/transformed/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] /home/morty/.gradle/caches/transforms-3/60defa369e3ea22a27c0481639ff1ca4/transformed/jetified-play-services-measurement-impl-18.0.3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] /home/morty/.gradle/caches/transforms-3/60defa369e3ea22a27c0481639ff1ca4/transformed/jetified-play-services-measurement-impl-18.0.3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] /home/morty/.gradle/caches/transforms-3/cc5eb3610f4a9ebeac1252a2f370500d/transformed/jetified-play-services-measurement-sdk-api-18.0.3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] /home/morty/.gradle/caches/transforms-3/cc5eb3610f4a9ebeac1252a2f370500d/transformed/jetified-play-services-measurement-sdk-api-18.0.3/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:23:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-database:19.7.0] /home/morty/.gradle/caches/transforms-3/854614eb0fefe8d12a4f7ac59149046d/transformed/jetified-firebase-database-19.7.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:19.7.0] /home/morty/.gradle/caches/transforms-3/854614eb0fefe8d12a4f7ac59149046d/transformed/jetified-firebase-database-19.7.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] /home/morty/.gradle/caches/transforms-3/c85872ced9d7f7a460424e5b1ba27990/transformed/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] /home/morty/.gradle/caches/transforms-3/c85872ced9d7f7a460424e5b1ba27990/transformed/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /home/morty/.gradle/caches/transforms-3/dc0340444484dd6680f5317d76152ecf/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /home/morty/.gradle/caches/transforms-3/dc0340444484dd6680f5317d76152ecf/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:18.0.3] /home/morty/.gradle/caches/transforms-3/f3ce0923ce37f7a305634f5404af3ca3/transformed/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:18.0.3] /home/morty/.gradle/caches/transforms-3/f3ce0923ce37f7a305634f5404af3ca3/transformed/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] /home/morty/.gradle/caches/transforms-3/60defa369e3ea22a27c0481639ff1ca4/transformed/jetified-play-services-measurement-impl-18.0.3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] /home/morty/.gradle/caches/transforms-3/60defa369e3ea22a27c0481639ff1ca4/transformed/jetified-play-services-measurement-impl-18.0.3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] /home/morty/.gradle/caches/transforms-3/cc5eb3610f4a9ebeac1252a2f370500d/transformed/jetified-play-services-measurement-sdk-api-18.0.3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] /home/morty/.gradle/caches/transforms-3/cc5eb3610f4a9ebeac1252a2f370500d/transformed/jetified-play-services-measurement-sdk-api-18.0.3/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:24:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
+ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:64:9-73:19
+	android:enabled
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:65:13-101
+intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:68:13-72:29
+action#com.google.firebase.auth.api.gms.service.START
+ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:69:17-89
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:69:25-86
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:77:13-79:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:79:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /home/morty/.gradle/caches/transforms-3/7972e089983ed62f40f55e513565f228/transformed/jetified-firebase-auth-20.0.4/AndroidManifest.xml:78:17-109
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:19.5.0] /home/morty/.gradle/caches/transforms-3/d282df085e1293a79af305f529f6b4e0/transformed/jetified-firebase-common-ktx-19.5.0/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:19.5.0] /home/morty/.gradle/caches/transforms-3/d282df085e1293a79af305f529f6b4e0/transformed/jetified-firebase-common-ktx-19.5.0/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:19.5.0] /home/morty/.gradle/caches/transforms-3/d282df085e1293a79af305f529f6b4e0/transformed/jetified-firebase-common-ktx-19.5.0/AndroidManifest.xml:16:17-113
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.7.0] /home/morty/.gradle/caches/transforms-3/854614eb0fefe8d12a4f7ac59149046d/transformed/jetified-firebase-database-19.7.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.7.0] /home/morty/.gradle/caches/transforms-3/854614eb0fefe8d12a4f7ac59149046d/transformed/jetified-firebase-database-19.7.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.7.0] /home/morty/.gradle/caches/transforms-3/854614eb0fefe8d12a4f7ac59149046d/transformed/jetified-firebase-database-19.7.0/AndroidManifest.xml:33:17-109
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:18.0.3] /home/morty/.gradle/caches/transforms-3/c85872ced9d7f7a460424e5b1ba27990/transformed/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:18.0.3] /home/morty/.gradle/caches/transforms-3/f3ce0923ce37f7a305634f5404af3ca3/transformed/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:18.0.3] /home/morty/.gradle/caches/transforms-3/f3ce0923ce37f7a305634f5404af3ca3/transformed/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] /home/morty/.gradle/caches/transforms-3/60defa369e3ea22a27c0481639ff1ca4/transformed/jetified-play-services-measurement-impl-18.0.3/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] /home/morty/.gradle/caches/transforms-3/60defa369e3ea22a27c0481639ff1ca4/transformed/jetified-play-services-measurement-impl-18.0.3/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] /home/morty/.gradle/caches/transforms-3/cc5eb3610f4a9ebeac1252a2f370500d/transformed/jetified-play-services-measurement-sdk-api-18.0.3/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] /home/morty/.gradle/caches/transforms-3/cc5eb3610f4a9ebeac1252a2f370500d/transformed/jetified-play-services-measurement-sdk-api-18.0.3/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.3] /home/morty/.gradle/caches/transforms-3/c85872ced9d7f7a460424e5b1ba27990/transformed/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:18.0.3] /home/morty/.gradle/caches/transforms-3/c85872ced9d7f7a460424e5b1ba27990/transformed/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.3] /home/morty/.gradle/caches/transforms-3/c85872ced9d7f7a460424e5b1ba27990/transformed/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.3] /home/morty/.gradle/caches/transforms-3/c85872ced9d7f7a460424e5b1ba27990/transformed/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.3.5] /home/morty/.gradle/caches/transforms-3/dc0340444484dd6680f5317d76152ecf/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] /home/morty/.gradle/caches/transforms-3/dc0340444484dd6680f5317d76152ecf/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] /home/morty/.gradle/caches/transforms-3/dc0340444484dd6680f5317d76152ecf/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.5.0] /home/morty/.gradle/caches/transforms-3/b2b83ec633b3c0c6e29345d97ed2d8a6/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /home/morty/.gradle/caches/transforms-3/b2b83ec633b3c0c6e29345d97ed2d8a6/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /home/morty/.gradle/caches/transforms-3/b2b83ec633b3c0c6e29345d97ed2d8a6/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /home/morty/.gradle/caches/transforms-3/b2b83ec633b3c0c6e29345d97ed2d8a6/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /home/morty/.gradle/caches/transforms-3/b2b83ec633b3c0c6e29345d97ed2d8a6/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /home/morty/.gradle/caches/transforms-3/b2b83ec633b3c0c6e29345d97ed2d8a6/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:27:13-77
+meta-data#com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar
+ADDED from [com.google.firebase:firebase-common:19.5.0] /home/morty/.gradle/caches/transforms-3/b2b83ec633b3c0c6e29345d97ed2d8a6/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:43:13-45:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /home/morty/.gradle/caches/transforms-3/b2b83ec633b3c0c6e29345d97ed2d8a6/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:45:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /home/morty/.gradle/caches/transforms-3/b2b83ec633b3c0c6e29345d97ed2d8a6/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:44:17-121
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/morty/.gradle/caches/transforms-3/d96548584432f351d303c10226e499eb/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/morty/.gradle/caches/transforms-3/d96548584432f351d303c10226e499eb/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/morty/.gradle/caches/transforms-3/d96548584432f351d303c10226e499eb/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/morty/.gradle/caches/transforms-3/d96548584432f351d303c10226e499eb/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:18.0.3] /home/morty/.gradle/caches/transforms-3/f3ce0923ce37f7a305634f5404af3ca3/transformed/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] /home/morty/.gradle/caches/transforms-3/60defa369e3ea22a27c0481639ff1ca4/transformed/jetified-play-services-measurement-impl-18.0.3/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] /home/morty/.gradle/caches/transforms-3/60defa369e3ea22a27c0481639ff1ca4/transformed/jetified-play-services-measurement-impl-18.0.3/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] /home/morty/.gradle/caches/transforms-3/f3ce0923ce37f7a305634f5404af3ca3/transformed/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:18.0.3] /home/morty/.gradle/caches/transforms-3/f3ce0923ce37f7a305634f5404af3ca3/transformed/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] /home/morty/.gradle/caches/transforms-3/f3ce0923ce37f7a305634f5404af3ca3/transformed/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] /home/morty/.gradle/caches/transforms-3/f3ce0923ce37f7a305634f5404af3ca3/transformed/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] /home/morty/.gradle/caches/transforms-3/f3ce0923ce37f7a305634f5404af3ca3/transformed/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:18.0.3] /home/morty/.gradle/caches/transforms-3/f3ce0923ce37f7a305634f5404af3ca3/transformed/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] /home/morty/.gradle/caches/transforms-3/f3ce0923ce37f7a305634f5404af3ca3/transformed/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] /home/morty/.gradle/caches/transforms-3/f3ce0923ce37f7a305634f5404af3ca3/transformed/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] /home/morty/.gradle/caches/transforms-3/f3ce0923ce37f7a305634f5404af3ca3/transformed/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:18.0.3] /home/morty/.gradle/caches/transforms-3/f3ce0923ce37f7a305634f5404af3ca3/transformed/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] /home/morty/.gradle/caches/transforms-3/f3ce0923ce37f7a305634f5404af3ca3/transformed/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] /home/morty/.gradle/caches/transforms-3/f3ce0923ce37f7a305634f5404af3ca3/transformed/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] /home/morty/.gradle/caches/transforms-3/f3ce0923ce37f7a305634f5404af3ca3/transformed/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] /home/morty/.gradle/caches/transforms-3/f3ce0923ce37f7a305634f5404af3ca3/transformed/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.1.0] /home/morty/.gradle/caches/transforms-3/4c78b08c025622d8c838583ffbabfe21/transformed/jetified-play-services-basement-17.1.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] /home/morty/.gradle/caches/transforms-3/4c78b08c025622d8c838583ffbabfe21/transformed/jetified-play-services-basement-17.1.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] /home/morty/.gradle/caches/transforms-3/4c78b08c025622d8c838583ffbabfe21/transformed/jetified-play-services-basement-17.1.0/AndroidManifest.xml:24:13-58

@@ -136,7 +136,8 @@ class Register_User : AppCompatActivity(R.layout.register_user_activity_layout) 
 class Register_Or_Apply_To_Community :
     AppCompatActivity(R.layout.register_or_apply_to_community_activity) {
 
-    fun found_new_community(view: View) {
+    fun found_new_community(
+        view: View) {
 
     }
 

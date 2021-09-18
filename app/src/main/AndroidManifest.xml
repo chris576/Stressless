@@ -10,6 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Stressless">
         <activity
+            android:exported="false"
             android:name=".ui.login.EnterMail"
             android:label="@string/app_name"
             android:theme="@style/Theme.Stressless.NoActionBar">
